@@ -51,7 +51,7 @@
             },
             {
                 "command": "editor.action.copyLinesDownAction",
-                "key": "ctrl+d",
+                "key": "ctrl+shift+d",
                 "mac": "cmd+d",
                 "when": "editorTextFocus && !editorReadonly"
             },
